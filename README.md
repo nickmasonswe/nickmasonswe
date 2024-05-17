@@ -2,10 +2,10 @@
 <h3 align="center"> Software Engineer Using the Right Tool for the Job | See Patterns, Solve Problems</h3>
 <div align="center">
   <p>
-    I set myself apart with my ability to quickly learn new languages, frameworks, and technologies due to a deep understanding of the transferable knowledge and recurring patterns that underpin these tools. This skill allows me to get up to speed and confidently adapt to evolving demands.
+    As an empathetic software engineer, I am passionate about collaborating with other engineers and across cross-functional teams to transform vague concepts into user-friendly products. My focus in on creating solutions that are highly maintainable and scalable.
   </p>
   <p>
-    As an empathetic software engineer, I am passionate about collaborating with cross-functional teams to translate complex ideas into user-friendly products that are highly maintainable, well-documented, and scalable.
+    I distinguish myself with my ability to quickly learn new languages, frameworks, and technologies due to a deep understanding of the transferable knowledge and recurring patterns that underpin these tools. This skill allows me to get up to speed and confidently adapt in fast-paced enviornments.
   </p>
 </div>
 
