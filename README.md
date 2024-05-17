@@ -5,7 +5,7 @@
     As an empathetic software engineer, I am passionate about collaborating with other engineers and across cross-functional teams to transform vague concepts into user-friendly products. My focus in on creating solutions that are highly maintainable and scalable.
   </p>
   <p>
-    I distinguish myself with my ability to quickly learn new languages, frameworks, and technologies due to a deep understanding of the transferable knowledge and recurring patterns that underpin these tools. This skill allows me to get up to speed and confidently adapt in fast-paced enviornments.
+    I distinguish myself with my ability to quickly learn new languages, frameworks, and technologies due to a deep understanding of the transferable knowledge and recurring patterns that underpin these tools. This skill allows me to get up to speed and confidently adapt in fast-paced environments.
   </p>
 </div>
 
