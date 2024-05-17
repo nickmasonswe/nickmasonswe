@@ -38,7 +38,7 @@
   <img src="https://a11ybadges.com/badge?logo=webpack" alt="Webpack" />
   <img src="https://a11ybadges.com/badge?logo=auth0" alt="Auth 0" />
   <img src="https://a11ybadges.com/badge?logo=awsamplify" alt="AWS Amplify" />
-  <img src="https://a11ybadges.com/badge?logo=amazons3s" alt="Amazon S3" />
+  <img src="https://a11ybadges.com/badge?logo=amazons3" alt="Amazon S3" />
   <img src="https://a11ybadges.com/badge?logo=amazondynamodb " alt="Amazon DynamoDB" />
   <img src="https://a11ybadges.com/badge?logo=amazonaws" alt="AWS technologies" />
 </div>
