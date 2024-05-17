@@ -27,7 +27,7 @@
 
 <h3 align="center"> Technologies </h3>
 <div align="center">
-  <img src="https://a11ybadges.com/badge?logo=aws" alt="AWS" />
+  <img src="https://a11ybadges.com/badge?logo=amazonaws" alt="AWS" />
   <img src="https://a11ybadges.com/badge?logo=postgresql" alt="PostgreSQL" />
   <img src="https://a11ybadges.com/badge?logo=mongodb" alt="MongoDB" />
   <img src="https://a11ybadges.com/badge?logo=nodedotjs" alt="Node.js" />
@@ -42,10 +42,9 @@
 
 <h3 align="center"> Learning and Building With </h3>
 <div align="center">
-  <img src="https://a11ybadges.com/badge?logo=reactnative" alt="React Native" />
-  <img src="https://a11ybadges.com/badge?logo=expo" alt="Expo" />
-  <img src="https://a11ybadges.com/badge?logo=nativewindcss" alt="Nativewind CSS" />
-  <img src="https://a11ybadges.com/badge?logo=tailwindcss" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://a11ybadges.com/badge?logo=tailwindcss" alt="Nativewind and Tailwind CSS" />
 </div>
 
 
