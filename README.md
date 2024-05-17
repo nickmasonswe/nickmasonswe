@@ -1,53 +1,53 @@
-<h1 style="text-align: center;"> Welcome to My Github </h1>
-<h3> Software Engineer Using the Right Tool for the Job | See Patterns, Solve Problems</h3>
-<div style="text-align: center;">
+<h1 align="center"> Welcome to My Github </h1>
+<h3 align="center"> Software Engineer Using the Right Tool for the Job | See Patterns, Solve Problems</h3>
+<div align="center">
   <p>
-I set myself apart with my ability to quickly learn new languages, frameworks, and technologies due to a deep understanding of the transferable knowledge and recurring patterns that underpin these tools. This skill allows me to get up to speed and confidently adapt to evolving demands.
+    I set myself apart with my ability to quickly learn new languages, frameworks, and technologies due to a deep understanding of the transferable knowledge and recurring patterns that underpin these tools. This skill allows me to get up to speed and confidently adapt to evolving demands.
   </p>
-  <p></p>
-As an empathetic software engineer, I am passionate about collaborating with cross-functional teams to translate complex ideas into user-friendly products that are highly maintainable, well-documented, and scalable.
+  <p>
+    As an empathetic software engineer, I am passionate about collaborating with cross-functional teams to translate complex ideas into user-friendly products that are highly maintainable, well-documented, and scalable.
   </p>
 </div>
 
-<h3 style="text-align: center;"> Languages </h3>
-<span style="text-align: center;">
-![TypeScript](https://a11ybadges.com/badge?logo=typescript)
-![JavaScript](https://a11ybadges.com/badge?logo=javascript)
-![Python](https://a11ybadges.com/badge?logo=python)
-</span>
+<h3 align="center"> Languages </h3>
+<div align="center">
+  <img src="https://a11ybadges.com/badge?logo=typescript" alt="TypeScript" />
+  <img src="https://a11ybadges.com/badge?logo=javascript" alt="JavaScript" />
+  <img src="https://a11ybadges.com/badge?logo=python" alt="Python" />
+</div>
 
-<h3 style="text-align: center;"> Frameworks and Libraries </h3>
-<span style="text-align: center;">
-![React](https://a11ybadges.com/badge?logo=react)
-![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
-![Express](https://a11ybadges.com/badge?logo=express)
-![Jest](https://a11ybadges.com/badge?logo=jest)
-![Vitest](https://a11ybadges.com/badge?logo=Vitest)
-</span>
+<h3 align="center"> Frameworks and Libraries </h3>
+<div align="center">
+  <img src="https://a11ybadges.com/badge?logo=react" alt="React" />
+  <img src="https://a11ybadges.com/badge?logo=nextdotjs" alt="Next.js" />
+  <img src="https://a11ybadges.com/badge?logo=express" alt="Express" />
+  <img src="https://a11ybadges.com/badge?logo=jest" alt="Jest" />
+  <img src="https://a11ybadges.com/badge?logo=Vitest" alt="Vitest" />
+</div>
 
-<h3 style="text-align: center;"> Technologies </h3>
-<span style="text-align: center;">
-![AWS](https://a11ybadges.com/badge?logo=aws)
-![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
-![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
-![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
-![Git](https://a11ybadges.com/badge?logo=git)
-![GitHub Actions](https://a11ybadges.com/badge?logo=githubactions)
-![REST](https://a11ybadges.com/badge?text=REST)
-![Vite](https://a11ybadges.com/badge?logo=vite)
-![Webpack](https://a11ybadges.com/badge?logo=webpack)
-![HTML5](https://a11ybadges.com/badge?logo=html5)
-![CSS3](https://a11ybadges.com/badge?logo=css3)
+<h3 align="center"> Technologies </h3>
+<div align="center">
+  <img src="https://a11ybadges.com/badge?logo=aws" alt="AWS" />
+  <img src="https://a11ybadges.com/badge?logo=postgresql" alt="PostgreSQL" />
+  <img src="https://a11ybadges.com/badge?logo=mongodb" alt="MongoDB" />
+  <img src="https://a11ybadges.com/badge?logo=nodedotjs" alt="Node.js" />
+  <img src="https://a11ybadges.com/badge?logo=git" alt="Git" />
+  <img src="https://a11ybadges.com/badge?logo=githubactions" alt="GitHub Actions" />
+  <img src="https://a11ybadges.com/badge?text=REST" alt="REST" />
+  <img src="https://a11ybadges.com/badge?logo=vite" alt="Vite" />
+  <img src="https://a11ybadges.com/badge?logo=webpack" alt="Webpack" />
+  <img src="https://a11ybadges.com/badge?logo=html5" alt="HTML5" />
+  <img src="https://a11ybadges.com/badge?logo=css3" alt="CSS3" />
+</div>
 
+<h3 align="center"> Learning and Building With </h3>
+<div align="center">
+  <img src="https://a11ybadges.com/badge?logo=reactnative" alt="React Native" />
+  <img src="https://a11ybadges.com/badge?logo=expo" alt="Expo" />
+  <img src="https://a11ybadges.com/badge?logo=nativewindcss" alt="Nativewind CSS" />
+  <img src="https://a11ybadges.com/badge?logo=tailwindcss" alt="Tailwind CSS" />
+</div>
 
-</span>
-<h3 style="text-align: center;"> Learning and Building With </h3>
-<span style="text-align: center;">
-![React Native](https://a11ybadges.com/badge?logo=reactnative)
-![Expo](https://a11ybadges.com/badge?logo=expo)
-![Nativewind CSS](https://a11ybadges.com/badge?logo=nativewindcss)
-![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
-</span>
 
 
 <!---
