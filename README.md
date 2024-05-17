@@ -9,35 +9,38 @@
   </p>
 </div>
 
-<h3 align="center"> Languages </h3>
+<h3 align="center"> Languages, Frameworks, and Libraries </h3>
 <div align="center">
   <img src="https://a11ybadges.com/badge?logo=typescript" alt="TypeScript" />
   <img src="https://a11ybadges.com/badge?logo=javascript" alt="JavaScript" />
   <img src="https://a11ybadges.com/badge?logo=python" alt="Python" />
-</div>
-
-<h3 align="center"> Frameworks and Libraries </h3>
-<div align="center">
   <img src="https://a11ybadges.com/badge?logo=react" alt="React" />
   <img src="https://a11ybadges.com/badge?logo=nextdotjs" alt="Next.js" />
   <img src="https://a11ybadges.com/badge?logo=express" alt="Express" />
   <img src="https://a11ybadges.com/badge?logo=jest" alt="Jest" />
-  <img src="https://a11ybadges.com/badge?logo=Vitest" alt="Vitest" />
+  <img src="https://a11ybadges.com/badge?logo=testinglibrary" alt="Testing Library" />
 </div>
+
+
 
 <h3 align="center"> Technologies </h3>
 <div align="center">
-  <img src="https://a11ybadges.com/badge?logo=amazonaws" alt="AWS" />
-  <img src="https://a11ybadges.com/badge?logo=postgresql" alt="PostgreSQL" />
-  <img src="https://a11ybadges.com/badge?logo=mongodb" alt="MongoDB" />
   <img src="https://a11ybadges.com/badge?logo=nodedotjs" alt="Node.js" />
-  <img src="https://a11ybadges.com/badge?logo=git" alt="Git" />
-  <img src="https://a11ybadges.com/badge?logo=githubactions" alt="GitHub Actions" />
   <img src="https://a11ybadges.com/badge?text=REST" alt="REST" />
-  <img src="https://a11ybadges.com/badge?logo=vite" alt="Vite" />
-  <img src="https://a11ybadges.com/badge?logo=webpack" alt="Webpack" />
   <img src="https://a11ybadges.com/badge?logo=html5" alt="HTML5" />
   <img src="https://a11ybadges.com/badge?logo=css3" alt="CSS3" />
+  <img src="https://a11ybadges.com/badge?logo=postgresql" alt="PostgreSQL" />
+  <img src="https://a11ybadges.com/badge?logo=mongodb" alt="MongoDB" />
+  <img src="https://a11ybadges.com/badge?logo=git" alt="Git" />
+  <img src="https://a11ybadges.com/badge?logo=github" alt="Github" />
+  <img src="https://a11ybadges.com/badge?logo=githubactions" alt="GitHub Actions" />
+  <img src="https://a11ybadges.com/badge?logo=vite" alt="Vite" />
+  <img src="https://a11ybadges.com/badge?logo=webpack" alt="Webpack" />
+  <img src="https://a11ybadges.com/badge?logo=auth0" alt="Auth 0" />
+  <img src="https://a11ybadges.com/badge?logo=awsamplify" alt="AWS Amplify" />
+  <img src="https://a11ybadges.com/badge?logo=amazons3s" alt="Amazon S3" />
+  <img src="https://a11ybadges.com/badge?logo=amazondynamodb " alt="Amazon DynamoDB" />
+  <img src="https://a11ybadges.com/badge?logo=amazonaws" alt="AWS technologies" />
 </div>
 
 <h3 align="center"> Learning and Building With </h3>
