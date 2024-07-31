@@ -17,6 +17,8 @@
   <img src="https://a11ybadges.com/badge?logo=react" alt="React" />
   <img src="https://a11ybadges.com/badge?logo=nextdotjs" alt="Next.js" />
   <img src="https://a11ybadges.com/badge?logo=express" alt="Express" />
+  <img src="https://a11ybadges.com/badge?logo=tailwindcss" alt="Nativewind and Tailwind CSS" />
+  <img src="https://a11ybadges.com/badge?logo=pytest" alt="Pytest" />
   <img src="https://a11ybadges.com/badge?logo=jest" alt="Jest" />
   <img src="https://a11ybadges.com/badge?logo=testinglibrary" alt="Testing Library" />
 </div>
@@ -47,7 +49,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://a11ybadges.com/badge?logo=tailwindcss" alt="Nativewind and Tailwind CSS" />
 </div>
 
 
