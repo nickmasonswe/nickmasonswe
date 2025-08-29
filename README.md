@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to My Github </h1>
+<h1 align="center"> Hi there, 👋 I'm Nick. Welcome to my Github! </h1>
 <h3 align="center"> Software Engineer | See Patterns, Solve Problems</h3>
 <div align="center">
   <p>
